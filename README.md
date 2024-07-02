@@ -43,3 +43,5 @@ The Almost Final Countdown is a timer-based game that tests a player's ability t
 - **Player.jsx**: React component for handling player input and displaying the player's current status.
 - **ResultModal.jsx**: React component for displaying the result modal with feedback after each challenge.
 - **TimerChallenge.jsx**: React component for managing individual timer challenges.
+
+![Game Screenshot](./public/project.png)
