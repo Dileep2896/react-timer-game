@@ -44,4 +44,10 @@ The Almost Final Countdown is a timer-based game that tests a player's ability t
 - **ResultModal.jsx**: React component for displaying the result modal with feedback after each challenge.
 - **TimerChallenge.jsx**: React component for managing individual timer challenges.
 
+## Live Game Link
+
+[Game Link](https://time-game-dileep.netlify.app)
+
+## Project Image
+
 ![Game Screenshot](./public/project.png)
